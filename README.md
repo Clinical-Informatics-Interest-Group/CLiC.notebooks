@@ -8,4 +8,7 @@ Google Colab is like any other Google Doc. Just click the link below and you've 
 ## A Health Data Project
 We'll begin with an open-source de-identified dataset on hospital readmissions. The first step will be to get to know our data. We'll apply some data science principles to describe the data and visualize it.
 
-### [Visit the first notebook in Google Colab here](https://colab.research.google.com/github/Clinical-Informatics-Interest-Group/CLiC.notebooks/blob/main/notebooks/uci_diabetes_data.ipynb#scrollTo=DkFl9upeZHgs)
+### [Visit the first notebook in Google Colab here](https://colab.research.google.com/github/Clinical-Informatics-Interest-Group/CLiC.notebooks/blob/main/notebooks/notebook1.ipynb#scrollTo=DkFl9upeZHgs)
+
+### [Session 2](https://www.fast.ai/)
+In the second session we will build our first Machine Learning models by following the protocol established by [fast.ai](https://docs.fast.ai/), an organization dedicated to making Machine Learning accessible to everyone.
