@@ -11,4 +11,4 @@ We'll begin with an open-source de-identified dataset on hospital readmissions. 
 ### [Visit the first notebook in Google Colab here](https://colab.research.google.com/github/Clinical-Informatics-Interest-Group/CLiC.notebooks/blob/main/notebooks/notebook1.ipynb#scrollTo=DkFl9upeZHgs)
 
 ### [Session 2](https://colab.research.google.com/github/Clinical-Informatics-Interest-Group/CLiC.notebooks/blob/main/notebooks/notebook2.ipynb)
-In the second session we will build our first Machine Learning models by following the protocol established by [fast.ai](https://docs.fast.ai/), an organization dedicated to making Machine Learning accessible to everyone.
+In the second session we will build our first Machine Learning model, a Random Forest Classifier. We'll investigate how well the trained model applies to the "real world" (in this case the Test subset of the data), and experiment how training the model with or without different features could impact patients.
